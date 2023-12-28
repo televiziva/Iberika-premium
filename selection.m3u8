@@ -139,7 +139,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
 #EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="" tvg-chno="403", Mi Extraña Obsesión
 https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
-
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="" tvg-chno="521", Dog el cazarrecompensas
+https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="" tvg-chno="542", Misterios Medicos
+https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="" tvg-chno="545", Pluto TV Misterios
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="" tvg-chno="550", Historias de Ultratumba
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="645d1abbe1979c0008779d5a" tvg-name="Archivos Extraterrestres" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="" tvg-chno="552", Archivos Extraterrestres
+https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
 
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="" tvg-chno="18", Pluto TV Cine Estelar
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
@@ -161,37 +170,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="canela-cinema-0" tvg-name="canela-cinema-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-cinema-16x9_1.png" group-title="" , Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
-#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="" , Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="" , Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="todo-drama" tvg-name="todo-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_drama-16x9.jpg" group-title="" , Todo Drama
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8?ads.wurl_channel=1563
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="" , True Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
-#EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9.jpg" group-title="" , Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="" , Pelimex
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
-#EXTINF:-1 tvg-id="cinema" tvg-name="cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/EK9aZjZ1ZauSbrscsQm-o9wYSvgoY8k861H04hY1JDA.jpg" group-title="" , Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
 #EXTINF:-1 tvg-id="todo-cine" tvg-name="todo-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg" group-title="" , Todo Cine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-id="cine-real" tvg-name="cine-real" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cinereal_cover_fastchannel_1920x1080.jpg" group-title="" , Cine Real
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4600
-#EXTINF:-1 tvg-id="/estu-cine" tvg-name="/estu-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tucine_cover_fastchannel_1920x1080_0.jpg" group-title="" , Tu Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
-#EXTINF:-1 tvg-id="top-cine-0" tvg-name="top-cine-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/topcine_cover_fastchannel_1920x1080_0.jpg" group-title="" , Top Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytopcinelatam-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
-#EXTINF:-1 tvg-id="flou-cine" tvg-name="flou-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg" group-title="" , Flou Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
-#EXTINF:-1 tvg-id="rcn-xtra" tvg-name="rcn-xtra" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cf4f2e09a2e798ed5a1fa664b0477469.png" group-title="" , RCN Xtra
-https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8?ads.wurl_channel=1170
-#EXTINF:-1 tvg-id="rcn-mas" tvg-name="rcn-mas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/47e355205f52fac9aa8e4ba28d96cf94.png" group-title="" , RCN Más
-https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
-#EXTINF:-1 tvg-id="weather-channel-en-espanol" tvg-name="weather-channel-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-the_weather_channel-16x9.jpg" group-title="" , The Weather Channel En Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
-#EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="" , Tastemade en Español
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
-
 
