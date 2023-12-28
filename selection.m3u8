@@ -56,7 +56,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="MOVIESPHERE MX" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="" ,MOVIESPHERE MX
+#EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="Moviesphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUNTIME 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" group-title="",
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
