@@ -26,6 +26,8 @@ https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/livel
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="rtve Docs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_RTVE.svg" group-title="" tvg-shift="+1", rtve Docs
 https://ztnr.rtve.es/ztnr/6987938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="" tvg-shift="+1", Dmax
+https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDU1MjI2OTIsIm5iZiI6MTcwNTUyMjY5MiwiZXhwIjoxNzA1NTIzMDUyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTc5LjkxIn0.1-I3GoVhZtq9xrmCX5D9NEads04RAfdl20Q7GBoG_Kk/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="" , Runtime
