@@ -21,7 +21,7 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="13TV.es" tvg-name="Trece" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="" tvg-shift="+1", Trece
 https://live-edge-eu-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Multicine" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/358089170_295881272815565_450810787545295777_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nOv87Ufgv8EAX-ak0oG&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&oh=00_AfByIcAGy_Gi34lYHMnRUMB0E6MPqrHvmi3sPLY7Rre7qw&oe=65F17C19" group-title="" tvg-shift="+1", Multicine Antena 3
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Multicine" tvg-logo="https://scontent.fmad6-1.fna.fbcdn.net/v/t39.30808-1/358089170_295881272815565_450810787545295777_n.jpg?stp=dst-jpg_p200x200&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=nOv87Ufgv8EAX-ak0oG&_nc_ht=scontent.fmad6-1.fna&edm=AKsJ254EAAAA&oh=00_AfByIcAGy_Gi34lYHMnRUMB0E6MPqrHvmi3sPLY7Rre7qw&oe=65F17C19" group-title="Peliculas suspense" tvg-shift="+1", Multicine Antena 3
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="rtve Docs" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_rtve_play.jpg" group-title="" tvg-shift="+1", rtve Docs
 https://ztnr.rtve.es/ztnr/6987938.m3u8
