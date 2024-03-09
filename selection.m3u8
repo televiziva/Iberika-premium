@@ -54,25 +54,29 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3056
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 #EXTINF:-1 tvg-id="cinema" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/EK9aZjZ1ZauSbrscsQm-o9wYSvgoY8k861H04hY1JDA.jpg" group-title="" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-#EXTINF:-1 tvg-id="runtime-series" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="" , Runtime Series 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6132
-#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="" tvg-shift="+1",Golden Plus
+#EXTINF:-1 tvg-id="GOLDENPLUS.mx" tvg-name="Golden Plus" tvg-logo="https://acortar.link/hg1zus" group-title="Cine" tvg-shift="+1",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/120px-A%26E_Network_logo.svg.png" group-title="" , A&E
+#EXTINF:-1 tvg-id="" tvg-name="Golden premiere" tvg-logo="https://acortar.link/4gc2V5" group-title="Cine" tvg-shift="+1",Golden Premiere
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://acortar.link/QzCxif" group-title="Cine" tvg-shift="+1",Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://acortar.link/eHrFdx" group-title="Cine" tvg-shift="+1",Golden
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://acortar.link/Ma8Z3Q" group-title="" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="Moviesphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 1 Serie y Cine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" group-title="", Runtime Cine y Serie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 2" tvg-logo="https://acortar.link/bCof2g", Runtime Cine2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime Cine Crimen" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime Cine Crimen" tvg-logo="https://acortar.link/bCof2g", Runtime Cine3 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime Cine Espanto" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" ,RUNTIME CINE ESPANTO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime Cine Espanto" tvg-logo="https://acortar.link/bCof2g" ,RUNTIME CINE ESPANTO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC en español" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="En Español" tvg-chno="4290", AMC en español
+#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC en español" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="" tvg-chno="4290", AMC en español
 https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
-#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV en Pluto TV" tvg-chno="555", MTV Teen Mom
+#EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="" tvg-chno="555", MTV Teen Mom
 https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=db0e97fa-d595-11ee-ad78-3a6496e7836d
 #EXTINF:-1 tvg-id="top-free-es-rakuten-tv" tvg-name="top-free-es-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7787b527-5f39-4180-98c9-6d093d3215c8-peliculas-top-rakuten-tv-1621956596.png" group-title="" ,  Canal Rakuten Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f0ae63bc-4521-4f99-98df-60cf153c2bfa&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=840
@@ -82,8 +86,6 @@ https://7316af19af3348fbafec08db40c987fb.mediatailor.us-east-1.amazonaws.com/v1/
 https://69e10208b9a0477c91a7d3c5bc302b85.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=0a6bbc3b-03b6-4aba-9f42-d0d3aceb7de9&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=428
 #EXTINF:-1 tvg-id="drama-es-rakuten-tv" tvg-name="drama-es-rakuten-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/27f15d74-cd48-45ad-834c-3c2d97275e68-peliculas-de-drama-rakuten-tv-1621956345.jpeg" group-title="" , Canal Rakuten Drama
 https://43acc28426e84e7b8a691e3503112bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2498&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=5b7389f5-3309-4f9c-82cc-b206537eaeb8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=429
-
-
 #EXTINF:-1 tvg-id="thriller-es-rakuten-tv" tvg-name="thriller-es-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6183803c-66f1-4fe9-98fa-f0ce319c4650.jpeg" group-title="" , Thrillers
 https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3330&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=115e3061-6681-42bf-8cfa-4a76f0ae77b9&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=884
 #EXTINF:-1 tvg-id="mytime-movie-network-spanish" tvg-name="mytime-movie-network-spanish" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" group-title="" , MyTime Movie Network
@@ -117,9 +119,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
 #EXTINF:-1 tvg-id="6554bd45aa9ffb00088e5589" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="" tvg-chno="40", COPS
 https://stitcher.pluto.tv/stitch/hls/channel/6554bd45aa9ffb00088e5589/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
-#EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-name="Turno de Noche" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Series" tvg-chno="146", The Night Shift
+#EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-name="Turno de Noche" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Serie" tvg-chno="146", Turno de Noche
 https://stitcher.pluto.tv/stitch/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
-#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Investigación" tvg-chno="601", Misterios sin Resolver
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="" tvg-chno="601", Misterios sin Resolver
 https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
 
 #EXTINF:-1 tvg-id="5f1acbed25948a0007ffbe65" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="" tvg-chno="303", Los archivos del FBI
@@ -181,3 +183,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="En Español" tvg-chno="4090", Cine Premiere
 https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
 
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY ID LAT
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",DISCOVERY TURBO LAT
+http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
+#EXTINF:-1 group-title="Bics Variados",E!
+http://livex.pop-app.live/s4n/poplive/ch308/playlist.m3u8
