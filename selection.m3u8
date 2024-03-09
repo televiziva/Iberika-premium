@@ -183,7 +183,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="En Español" tvg-chno="4090", Cine Premiere
 https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
 
-#EXTINF:-1 group-title="Bics Variados",DISCOVERY ID LAT
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigación" tvg-logo="https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg" group-title="", DISCOVERY Investigación
 http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 #EXTINF:-1 group-title="Bics Variados",HOME AND HEALTH LAT
 http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
