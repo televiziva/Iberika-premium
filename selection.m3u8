@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/dc0a63f045def3005ca3e879b183de398b7b6434/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="" tvg-shift="+1", TVE Int.
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="" tvg-shift="+1",La 2
