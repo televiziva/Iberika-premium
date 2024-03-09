@@ -27,9 +27,17 @@ https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41d
 https://ztnr.rtve.es/ztnr/6987938.m3u8
 #EXTINF:-1 tvg-id="DiscoveryMax.es" tvg-name="Dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="" tvg-shift="+1", Dmax
 https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDU1MjI2OTIsIm5iZiI6MTcwNTUyMjY5MiwiZXhwIjoxNzA1NTIzMDUyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTc5LjkxIn0.1-I3GoVhZtq9xrmCX5D9NEads04RAfdl20Q7GBoG_Kk/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
-
+#EXTINF:-1 group-title="Programas",TLC LAT
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigación" tvg-logo="https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg" group-title="", DISCOVERY Investigación
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Salud" tvg-logo="https://acortar.link/sACBkV" group-title="", H&H Salud
+http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
 #EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="300", Archivos Forenses
 https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=db0e97fa-d595-11ee-ad78-3a6496e7836d
+
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="" tvg-chno="601", Misterios sin Resolver
+https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
 #EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="" , Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 #EXTINF:-1 tvg-id="cines-verdi" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg" group-title="" , Cines Verdi
@@ -57,10 +65,18 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://acortar.link/Ma8Z3Q" group-title="" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigación" tvg-logo="https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg" group-title="", DISCOVERY Investigación
-http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Salud" tvg-logo="https://acortar.link/sACBkV" group-title="", H&H Salud
-http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
+#EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="" tvg-chno="403", Mi Extraña Obsesión
+https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="" tvg-chno="521", Dog el cazarrecompensas
+https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="" tvg-chno="542", Misterios Medicos
+https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-name="Emergencia 911" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="En Español" tvg-chno="4320", Emergencia 911
+https://stitcher.pluto.tv/stitch/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="" tvg-chno="545", Pluto TV Misterios
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="" tvg-chno="550", Historias de Ultratumba
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
 #EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="Moviesphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 1 Serie y Cine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" group-title="", Runtime Cine y Serie
@@ -118,8 +134,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/6554bd45aa9ffb00088e5589/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
 #EXTINF:-1 tvg-id="624f4d4a4321e200073f46e0" tvg-name="Turno de Noche" tvg-logo="https://images.pluto.tv/channels/624f4d4a4321e200073f46e0/colorLogoPNG.png" group-title="Serie" tvg-chno="146", Turno de Noche
 https://stitcher.pluto.tv/stitch/hls/channel/624f4d4a4321e200073f46e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
-#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="" tvg-chno="601", Misterios sin Resolver
-https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
+
 
 #EXTINF:-1 tvg-id="5f1acbed25948a0007ffbe65" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="" tvg-chno="303", Los archivos del FBI
 https://stitcher.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
@@ -135,18 +150,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
 #EXTINF:-1 tvg-id="5f1aca8310a30e00074fab92" tvg-name="Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="" tvg-chno="309", Asesinatos de Midsomer
 https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
-#EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="" tvg-chno="403", Mi Extraña Obsesión
-https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ff2f95e7-a595-11ee-b17d-826f6bb253821
-#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="" tvg-chno="521", Dog el cazarrecompensas
-https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
-#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="" tvg-chno="542", Misterios Medicos
-https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
-#EXTINF:-1 tvg-id="60492a1e6361250007679665" tvg-name="Emergencia 911" tvg-logo="https://images.pluto.tv/channels/60492a1e6361250007679665/colorLogoPNG.png" group-title="En Español" tvg-chno="4320", Emergencia 911
-https://stitcher.pluto.tv/stitch/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
-#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="" tvg-chno="545", Pluto TV Misterios
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
-#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="" tvg-chno="550", Historias de Ultratumba
-https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2eb79f21-a596-11ee-8f02-fea2cee1cc55
+
 #EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1179", Pluto TV Hogar
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
 #EXTINF:-1 tvg-id="65254e8d81f9420008342cee" tvg-name="La fiebre del Jade" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="38", La fiebre del Jade
@@ -180,8 +184,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="En Español" tvg-chno="4090", Cine Premiere
 https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
 
-#EXTINF:-1 group-title="Bics Variados",TLC LAT
-http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 
 
 
