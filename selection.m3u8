@@ -64,6 +64,10 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://acortar.link/Ma8Z3Q" group-title="" , A&E
 http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigación" tvg-logo="https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg" group-title="", DISCOVERY Investigación
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Salud" tvg-logo="https://acortar.link/sACBkV" group-title="", H&H Salud
+http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="Moviesphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 1 Serie y Cine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" group-title="", Runtime Cine y Serie
@@ -183,10 +187,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="En Español" tvg-chno="4090", Cine Premiere
 https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
 
+#EXTINF:-1 group-title="Bics Variados",TLC LAT
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Investigación" tvg-logo="https://pbs.twimg.com/media/EVcSnVhWsAEWug7.jpg" group-title="", DISCOVERY Investigación
-http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",HOME AND HEALTH LAT
-http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
-#EXTINF:-1 group-title="Bics Variados",H&H LAT
-http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
+
+
