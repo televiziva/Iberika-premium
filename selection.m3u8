@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1179", Pluto TV Hogar
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0125e0e5-d596-11ee-9a50-c6ba7706028d
-#EXTINF:-1 tvg-id="65254e8d81f9420008342cee" tvg-name="La fiebre del Jade" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="38", La fiebre del Jade
-https://stitcher.pluto.tv/stitch/hls/channel/65254e8d81f9420008342cee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09eb187b-c83a-11ee-9b73-7aedf1107d16
+
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="" tvg-shift="+1", TVE Int.
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="" tvg-shift="+1",La 2
@@ -23,6 +20,8 @@ http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Salud" tvg-logo="https://acortar.link/sACBkV" group-title="", H&H Salud
 http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
+#EXTINF:-1 tvg-id="65254e8d81f9420008342cee" tvg-name="La fiebre del Jade" tvg-logo="https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png" group-title="Nuevo en Pluto TV" tvg-chno="38", La fiebre del Jade
+https://stitcher.pluto.tv/stitch/hls/channel/65254e8d81f9420008342cee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09eb187b-c83a-11ee-9b73-7aedf1107d16
 #EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Crimen y Misterio" tvg-chno="300", Archivos Forenses
 https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=db0e97fa-d595-11ee-ad78-3a6496e7836d
 #EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="" tvg-chno="601", Misterios sin Resolver
