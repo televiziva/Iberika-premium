@@ -5,9 +5,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="TVE Int." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/702px-Logo_TVE-Internacional.svg.png" group-title="" tvg-shift="+1", TVE Int.
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 tvg-id="TVEStarHD.es",TVE Star HD
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AStar-TVE-logo.png&psig=AOvVaw2qh6ES93k2B_Nzimec2Rwu&ust=1710946517199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi87dDKgIUDFQAAAAAdAAAAABAD",TVE Star HD 
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es",Cuatro
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALogotipo_de_Cuatro.svg&psig=AOvVaw0kKrmg-H-rEbA9IgOBeZmt&ust=1710946595686000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiylPTKgIUDFQAAAAAdAAAAABAD", Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="CanalExtremaduraSat.es" tvg-name="Canal Extremadura Sat" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cextsat.png" group-title="" tvg-shift="+1", Canal Extremadura Sat
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
