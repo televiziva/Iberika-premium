@@ -21,15 +21,13 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="Energy.es",Energy 
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryMax.es" tvg-name="Dmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="" tvg-shift="+1", Dmax
-https://streaming.aurora.enhanced.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MDU1MjI2OTIsIm5iZiI6MTcwNTUyMjY5MiwiZXhwIjoxNzA1NTIzMDUyLCJjb3VudHJ5Q29kZSI6ImVzIiwidWlwIjoiODQuMzkuMTc5LjkxIn0.1-I3GoVhZtq9xrmCX5D9NEads04RAfdl20Q7GBoG_Kk/live/es/b9243cdb24df40128098f3ea25fcf47d/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es",Atreseries
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="BeMad.es",Be Mad
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index.m3u8
 #EXTINF:-1 tvg-id="GOLPLAY.es",GOL PLAY 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx", tvg-logo="https://yt3.googleusercontent.com/VaoCfBYTJ86-oR844ER_uZjjF-pCWUakvfvi7v968ULcS_eyebBn9ei6JvzS8GUyIsOEjRtzgA=s900-c-k-c0x00ffffff-no-rj", MyTime Movie Network Mexico
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.es",AMC
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
@@ -80,8 +78,6 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=ab8fe85c-34c3-4268-bc4e-8a5706913416&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Movies;Series",HBO2
 http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO XTREME
-http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 group-title="", DH&H
 http://stream.flynetwifi.com:1935/live/mobile-107/playlist.m3u8
 
