@@ -251,6 +251,25 @@ https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b243ed9-e54d-11ee-8a65-aed6929850fa
 
 
+#EXTINF:-1 tvg-name="Free Tv Acción" tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Acción
+https://topcineus-freetv.amagi.tv/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Drama" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Free Tv" , Free Tv Drama
+https://cinerealus-freetv.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Estelar tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Estelar
+https://tucine-plex.amagi.tv/TuCine/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Live tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Live
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Terror tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Terror
+https://horrorfy-plex.amagi.tv/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-name="Free Tv Saber Más tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sabermas_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Saber Más
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+
+
 #EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC en español" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="Peliculas" tvg-chno="4290", AMC en español
 https://stitcher.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0b99922e-d596-11ee-a074-6ee9609a06ee
 
