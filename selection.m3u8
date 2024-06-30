@@ -27,16 +27,7 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:20_HD.smil/index
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx",MyTime Movie Network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AMC.es",AMC
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Calle13Universal.es",Calle 13 Universal
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="COSMO.es",COSMO
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Historia.es",Historia 
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.es",Sundance TV
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="542", Misterios Medicos
 https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
