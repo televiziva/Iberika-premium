@@ -257,7 +257,7 @@ https://topcineus-freetv.amagi.tv/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-name="Free Tv Drama" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_drama_1080x1080_02092024_0.jpg" group-title="Free Tv" , Free Tv Drama
 https://cinerealus-freetv.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-1 tvg-name="Free Tv Estelar tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Estelar
+#EXTINF:-1 tvg-name="Free Tv Estelar tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_estelar_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Estelar
 https://tucine-plex.amagi.tv/TuCine/master.m3u8
 
 #EXTINF:-1 tvg-name="Free Tv Live tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_live_1080x1080_02092024.jpg" group-title="Free Tv" , Free Tv Live
