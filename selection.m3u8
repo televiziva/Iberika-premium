@@ -302,7 +302,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u
 #EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Investigación" tvg-chno="601", Misterios sin Resolver
 https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4eb4498d-e54d-11ee-adb7-0aaf02f4a16d
 
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Estilo de Vida" tvg-chno="1179", Pluto TV Hogar
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4eb4498d-e54d-11ee-adb7-0aaf02f4a16d
+#EXTINF:-1 tvg-id="cinema-1" tvg-name="cinema-1" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-cinema-16x9_1.jpg" group-title="" , Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 
-
+#EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="" , Canela Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
