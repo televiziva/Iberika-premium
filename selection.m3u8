@@ -254,9 +254,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/65254e8d81f9420008342cee/master.m3u
 #EXTINF:-1 tvg-id="6554bd45aa9ffb00088e5589" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="403", COPS
 https://stitcher.pluto.tv/stitch/hls/channel/6554bd45aa9ffb00088e5589/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b243ed9-e54d-11ee-8a65-aed6929850fa
 
-#EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="407", Mi Extraña Obsesión
-https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b243ed9-e54d-11ee-8a65-aed6929850fa
-
 #EXTINF:-1 tvg-id="673249433a61d400087a51ed" tvg-name="Construcciones Asombrosas" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" group-title="" tvg-chno="4445", Construcciones Asombrosas
 https://stitcher.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d64f5fac-bd22-11ef-a9ef-ee6967560f17
 
@@ -367,16 +364,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5doCQK.png", Curioso
 https://nosey-3-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PTVAlmeria.es",PTV Almería (1080p)
-https://streamer.zapitv.com/ptv_almeria/index.m3u8
-#EXTINF:-1 tvg-id="PTVCordoba.es",PTV Córdoba (1080p)
-https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
-#EXTINF:-1 tvg-id="PTVGranada.es",PTV Granada (720p)
-https://streamer.zapitv.com/PTV-granada/index.m3u8
-#EXTINF:-1 tvg-id="PTVLinares.es",PTV Linares (720p)
-https://streamer.zapitv.com/ptv-linarez/index.m3u8
-#EXTINF:-1 tvg-id="PTVMalaga.es",PTV Málaga (1080p)
-https://streamer.zapitv.com/PTV-malaga/index.m3u8
-#EXTINF:-1 tvg-id="PTVSevilla.es",PTV Sevilla (1080p)
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 tvg-id="TeleVigo.es",TeleVigo
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+
+#EXTINF:-1 tvg-id="TelevisionAranda.es",Televisión Aranda
+https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+
+#EXTINF:-1 tvg-id="Vivamovil.es",Vivamóvil
+https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleganes.es",Teleganés
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 
