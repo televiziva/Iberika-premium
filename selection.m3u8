@@ -334,6 +334,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Series" tvg-chno="108", NCIS
 https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4eb4498d-e54d-11ee-adb7-0aaf02f4a16d
 
+#EXTINF:-1 tvg-id="PopularTVMelilla.es",Popular TV Melilla / TRECE
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+
+#EXTINF:-1 tvg-id="RiberaTV.es",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 tvg-id="TVR.es",Rioja Televisión
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele7.es" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="64ff270f30ab3300084e259c" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Series" tvg-chno="127", Rookie Blue: Policías Novatos
 https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4eb4498d-e54d-11ee-adb7-0aaf02f4a16d
 
@@ -364,4 +377,5 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleganes.es",Teleganés
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
-
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es",TVE Internacional Europe-Asia 
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
