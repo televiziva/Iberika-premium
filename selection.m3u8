@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz"
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz"
-#EXTM3U url-tvg="https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz"
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml"
+#EXTM3U url-tvg="https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml"
 
 #EXTINF:-1 tvg-id="runtime-4" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920x1080_0.jpg" group-title="" , Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
