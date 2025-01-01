@@ -25,6 +25,9 @@ https://jmp2.uk/sam-ESBD3000002GP.m3u8
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=630f1bcb-5f32-4905-a68e-555f2b242d0c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5
 
 
+#EXTINF:-1 tvg-id="TVReus.es",TVReus
+https://eu1.servers10.com:8081/8166/index.m3u8
+
 #EXTINF:-1 tvg-id="La7TelevisionRegiondeMurcia.es" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
@@ -40,6 +43,8 @@ https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png",MyTime Movie Network - Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="", PR: TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
 #EXTINF:-1 tvg-id="64a3f200f238ce0008d47247" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" group-title="" tvg-chno="306", Pluto TV True Crime
@@ -379,3 +384,18 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es",TVE Internacional Europe-Asia 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+
+#EXTINF:-1 group-title="Bics Latino", GT: TV AZTECA GUATE
+https://ch1-tva.duin.dev/hls/stream.m3u8
+#EXTINF:-1 group-title="Bics Latino", HN: CTV INTERNACIONAL
+https://mediacp.us:8081/ctvhn/index.m3u8
+#EXTINF:-1 group-title="Bics Latino", SV: CANAL 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Bics Latino", EC: ECUADOR TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bics Latino", BO: CANAL 7.1
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
+#EXTINF:-1 group-title="Bics Latino", SV: CANAL 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
