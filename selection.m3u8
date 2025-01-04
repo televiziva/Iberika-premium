@@ -65,7 +65,8 @@ https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-name="Interalmería TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="Televisión",Interalmería TV
 https://tv.interalmeria.tv/directo/live.m3u8
 
-
+#EXTINF:-1 tvg-id="desastres" tvg-name="desastres" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-desastres-16x9.jpg" group-title="En Vivo" , Desastres
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 
 #EXTINF:-1 tvg-id="TVReus.es",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
@@ -88,6 +89,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="", PR: TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1  group-title="", MX: AXN
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="64a3f200f238ce0008d47247" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" group-title="" tvg-chno="306", Pluto TV True Crime
 https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b243ed9-e54d-11ee-8a65-aed6929850fa
