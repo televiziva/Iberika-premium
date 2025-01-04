@@ -25,6 +25,48 @@ https://jmp2.uk/sam-ESBD3000002GP.m3u8
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=630f1bcb-5f32-4905-a68e-555f2b242d0c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5
 
 
+#EXTINF:-1 tvg-name="Mírame TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="Televisión",Mírame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+
+
+#EXTINF:-1 tvg-name="Onda Cádiz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Televisión",Onda Cádiz
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="M95 Marbella" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="Televisión",M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+
+#EXTINF:-1 tvg-name="Huelva TV" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200" group-title="Televisión",Huelva TV
+https://eventos.todostreaming.es/live/huelvatv-livestream.m3u8
+
+#EXTINF:-1 tvg-name="Canal Sierra de Cádiz" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="Televisión",Canal Sierra de Cádiz
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 45 TV" tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="Televisión",Canal 45 TV
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1 tvg-name="PTV Málaga" tvg-logo="https://graph.facebook.com/PTVMalaga/picture?width=200&height=200" group-title="Televisión",PTV Málaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+
+#EXTINF:-1 tvg-name="101TV Sevilla" tvg-logo="https://graph.facebook.com/101TVSevilla/picture?width=200&height=200" group-title="Televisión",101TV Sevilla
+https://streaming101tv.es/hls/websevilla.m3u8
+
+#EXTINF:-1 tvg-name="Costa Noroeste TV" tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200" group-title="Televisión",Costa Noroeste TV
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+
+#EXTINF:-1 tvg-name="Teleonuba" tvg-logo="https://graph.facebook.com/Teleonuba/picture?width=200&height=200" group-title="Televisión",Teleonuba
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Condavisión" tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200" group-title="Televisión",Condavisión
+https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CanalCosta" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="Televisión",CanalCosta
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Interalmería TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="Televisión",Interalmería TV
+https://tv.interalmeria.tv/directo/live.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TVReus.es",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
 
