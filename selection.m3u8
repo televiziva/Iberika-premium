@@ -35,8 +35,6 @@ https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 #EXTINF:-1 tvg-name="M95 Marbella" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="Televisión",M95 Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
-#EXTINF:-1 tvg-name="Huelva TV" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200" group-title="Televisión",Huelva TV
-https://eventos.todostreaming.es/live/huelvatv-livestream.m3u8
 
 #EXTINF:-1 tvg-name="Canal Sierra de Cádiz" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="Televisión",Canal Sierra de Cádiz
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
@@ -74,7 +72,7 @@ https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-id="La7TelevisionRegiondeMurcia.es" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title="Nacional" tvg-shift="+1",Canal 4 Mallorca
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title="Nacional" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Peliculas de Antena 3" tvg-logo="https://images.ecestaticos.com/KoRUKXNLPOfGv8UH2iuxv2OZrj8=/0x1:1915x1078/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F478%2F689%2Fab7%2F478689ab72f93174643121935dc17313.jpg" group-title="" tvg-shift="+1", Peliculas de Antena 3
@@ -390,8 +388,6 @@ https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es",Ribera TV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 
-#EXTINF:-1 tvg-id="TVR.es",Rioja Televisión
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tele7.es" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Tele 7 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -430,17 +426,17 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es",TVE Internacional Europe-Asia 
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 
-#EXTINF:-1 group-title="Bics Latino", GT: TV AZTECA GUATE
+#EXTINF:-1 group-title="", GT: TV AZTECA GUATE
 https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Bics Latino", HN: CTV INTERNACIONAL
+#EXTINF:-1 group-title="", HN: CTV INTERNACIONAL
 https://mediacp.us:8081/ctvhn/index.m3u8
-#EXTINF:-1 group-title="Bics Latino", SV: CANAL 21
+#EXTINF:-1 group-title="", SV: CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Bics Latino", EC: ECUADOR TV
+#EXTINF:-1 group-title="", EC: ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bics Latino", BO: CANAL 7.1
+#EXTINF:-1 group-title="", BO: CANAL 7.1
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
-#EXTINF:-1 group-title="Bics Latino", SV: CANAL 12
+#EXTINF:-1 group-title="", SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
+#EXTINF:-1 group-title="", MX: AZTECA UNO -1 HR
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
