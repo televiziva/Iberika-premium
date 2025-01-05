@@ -212,6 +212,8 @@ https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241023T143152SQUARE.png" group-title="" , Royalworld - Nobleza y Dinastias
 https://jmp2.uk/sam-ESBD1400003QN.m3u8
 
+#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg" group-title="" , C4 en Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
 #EXTINF:-1 tvg-id="Onda15TV.es",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
