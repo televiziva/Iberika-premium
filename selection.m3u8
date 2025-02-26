@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml, https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 
 
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" group-title="" , Historia y Vida
