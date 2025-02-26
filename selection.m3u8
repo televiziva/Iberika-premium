@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml"
 
-#EXTINF:-1 group-title="" tvg-id="CGTNEspanol.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" group-title="Docu" ,CGTN Español
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20240507T094209SQUARE.png" group-title="" , Historia y Vida
 https://amg01821-amg01821c22-tivify-international-3877.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-historiayvidacc-tivifyinternational/playlist.m3u8?w=1920&h=1080&cb=&ip=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F126.0.0.0%20Safari%2F537.36&dnt=&app_bundle=tivify.tv&app_name=Tivify&app_store_url=https://tivify.tv&did=437581ab-f6b0-46e4-89cb-dfd532a90863&pod_max_dur=130&pod_ad_slots=8&gdpr_consent=CP-S4UAP-S4UABMB9CESAmEsAP_gAAAAAAiQg1NV_H__bX9r8Xr16ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzDMYkGMgTMIJ6BkgFMRY2dYCFxvmQtjMQIY5_p_d3f52T-9_dv83dziz8FnvzU5PmclcICdA58tDfl_bRKb-5IOd-70v4v09Nfrk2_eTVk_tevr7B-ufs-7_XV-9_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQUICIAOADPgI8ASqAmcBvgDtgHcgQUAkQBJQCUYEtAJjgTJAmkEFAAYJABgACINQ6ADAAEQaiEAGAAIg1EoAMAARBqKQAYAAiDUWgAwABEGoA.f_wAAAAAAAAA&gdpr=1&schain=&url=tivify.tv&ifa_type=sessionid&ic=IAB1&content_genre=TV&language=es&rating=TV-PG
@@ -43,10 +41,6 @@ https://jmp2.uk/sam-ESBD3000002GP.m3u8
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=630f1bcb-5f32-4905-a68e-555f2b242d0c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5
 
 
-#EXTINF:-1 tvg-name="Mírame TV" tvg-logo="https://graph.facebook.com/mirametvcom/picture?width=200&height=200" group-title="Televisión",Mírame TV
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-
-
 #EXTINF:-1 tvg-name="Onda Cádiz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Televisión",Onda Cádiz
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
@@ -84,9 +78,6 @@ https://tv.interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="desastres" tvg-name="desastres" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-desastres-16x9.jpg" group-title="En Vivo" , Desastres
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
 
-#EXTINF:-1 tvg-id="TVReus.es",TVReus
-https://eu1.servers10.com:8081/8166/index.m3u8
-
 #EXTINF:-1 tvg-id="La7TelevisionRegiondeMurcia.es" tvg-name="7 Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",7 Murcia
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
@@ -101,12 +92,6 @@ https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png",MyTime Movie Network - Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="", PR: TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1  group-title="", MX: AXN
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="ES2800001G7" tvg-name="ES2800001G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20241210T052641SQUARE.png" group-title="" , Planeta de Cine
 https://jmp2.uk/sam-ES2800001G7.m3u8
@@ -138,11 +123,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u
 #EXTINF:-1 tvg-id="673249afc7626f0008c7205d" tvg-name="Vidas Extremas" tvg-logo="https://images.pluto.tv/channels/673249afc7626f0008c7205d/colorLogoPNG.png" group-title="" tvg-chno="4443", Vidas Extremas
 https://stitcher.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d64f5fac-bd22-11ef-a9ef-ee6967560f17
 
-
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/eltorotv.jpg" group-title="Nacional" tvg-shift="+1",El Toro TV
 https://streaming-1.eltorotv.com/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cyltv.es/img/cylTV.esTwitter.png" group-title="" ,Castilla y Leon Tv
+#EXTINF:-1 tvg-id="La7deCyLTV.es" tvg-logo="https://www.cyltv.es/img/cylTV.esTwitter.png" group-title="" ,Castilla y Leon Tv
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
@@ -233,22 +217,11 @@ https://jmp2.uk/sam-ESBD1400003QN.m3u8
 #EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg" group-title="" , C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
-#EXTINF:-1 tvg-id="Onda15TV.es",Onda 15 TV
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="OndaAlgeciras.es",Onda Algeciras TV
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-id="OndaCadiz.es",Onda Cádiz 24h
-https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="Moviesphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Peliculas" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 1 Serie y Cine" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg" group-title="", Runtime Cine y Serie
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-
-#EXTINF:-1 tvg-id="AragonTV.es",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Runtime 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjOLXvst1loio3mjDCyvmUF4Zfkyb7FkVhw2u0X0Q1fFuEhvgfRKuAd1d91XKodAuOY6656fsR64IzEa8ioiOAbgN9x4pop2XWIAl6hQnPLHw-bwjZVxYNtzh03HOHAs8n4re5y2lNxaq6QVd9lO1RTPbh2a1q8j07SwIslaTlw5OgfeMzbeDuCStMWA/s800/logo-runtime-2023.jpg", Runtime Cine2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
@@ -400,9 +373,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eb/master.m3u
 
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="Películas" tvg-chno="90", Pluto TV Cine Familia
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=
-
-#EXTINF:-1 tvg-id="PopularTVMelilla.es",Popular TV Melilla / TRECE
-https://5940924978228.streamlock.net/8009/8009/master.m3u8
 
 #EXTINF:-1 tvg-id="RiberaTV.es",Ribera TV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
