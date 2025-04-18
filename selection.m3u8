@@ -142,6 +142,19 @@ https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7s
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
 
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="" tvg-shift="+1",Antena 3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="" tvg-shift="+1",Cuatro HD
+http://185.189.225.150:85/CuatroHD/index.m3u8
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="" tvg-shift="+1",Telecinco HD
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/512px-Neox_2023_logo.svg.png" group-title="" tvg-shift="+1",Neox
+http://185.189.225.150:85/neox/index.m3u8
+#EXTINF:-1 tvg-id="8madrid TV" tvg-name="8Madrid" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="" tvg-shift="+1",8Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="" ,BOM Cine
+http://185.189.225.150:85/BOM/index.m3u8
+
 #EXTINF:-1 tvg-id="66d71c656b63480008cf0427" tvg-name="Cherif" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png" group-title="" tvg-chno="19", Cherif
 https://stitcher.pluto.tv/stitch/hls/channel/66d71c656b63480008cf0427/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=323481c1-a7eb-11ef-b0e9-16af0e9e86b2
 
