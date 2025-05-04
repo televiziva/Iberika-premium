@@ -58,8 +58,8 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title="Nacional" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
-#EXTINF:-1 tvg-id="A3P_Multicine.TV" tvg-name="Atresplayer Multicine" tvg-logo="https://images.ecestaticos.com/KoRUKXNLPOfGv8UH2iuxv2OZrj8=/0x1:1915x1078/1440x810/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F478%2F689%2Fab7%2F478689ab72f93174643121935dc17313.jpg" group-title="" tvg-shift="+1", Atresplayer Multicine
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="" ,BOM Cine
+http://185.189.225.150:85/BOM/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-name="mytime-movie-network-spanish" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Peliculas accion y suspense" , MyTime Movie Network
 https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=b4d9fc8d-6992-4816-8112-3836c451dd1c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
