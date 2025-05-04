@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml", "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 
-#EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg" group-title="" , Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 tvg-id="8madrid TV" tvg-name="8Madrid" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="" tvg-shift="+1",8Madrid
+http://185.189.225.150:85/8madrid/index.m3u8
 
 #EXTINF:-1 tvg-id="canela-cinema-0" tvg-name="canela-cinema-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-cinema-16x9_1.png" group-title="" , Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
