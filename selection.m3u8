@@ -393,8 +393,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1 tvg-id="ice-pilots-es" tvg-name="ice-pilots-es" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/47db66d1-8f73-451e-9244-34ce4b1c423c.jpeg" group-title="Reality" , Pilotos del Ártico
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=e5b86043-e1d3-40a5-8aef-630346d4d4e7&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883090
 
-#EXTINF:-1,Atresplayer Mentes Inquietas
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+
+#EXTINF:-1 tvg-id="6732495dc7626f0008c71e7d" tvg-name="Expedientes Sobrenaturales" tvg-logo="https://images.pluto.tv/channels/6732495dc7626f0008c71e7d/colorLogoPNG.png" group-title="" tvg-chno="4457", Expedientes Sobrenaturales
+https://stitcher.pluto.tv/stitch/hls/channel/6732495dc7626f0008c71e7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b828437-3d30-11f0-83b4-6a8c7f58f83d
 
 #EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Investigación" tvg-chno="578", Pluto TV Investiga
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4a0d3c30-fd92-11ef-84fe-1a9fa7bca7f8
@@ -405,11 +406,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="" tvg-chno="550", Historias de Ultratumba
 https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4a0d3c30-fd92-11ef-84fe-1a9fa7bca7f8
 
-#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20241030T140445SQUARE.png" group-title="" , La 1
-https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-
-#EXTINF:-1 tvg-id="ESBC4100002AG" tvg-name="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20241022T050543SQUARE.png" group-title="" , La 2
-https://jmp2.uk/sam-ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-id="60e4573c9f963e00077ecf25" tvg-name="Mi Extraña Obsesión" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png" group-title="" tvg-chno="157", Mi Extraña Obsesión
 https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c25cbb29-fb36-11ef-92be-ea3fb4e48af6
