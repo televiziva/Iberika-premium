@@ -79,6 +79,9 @@ https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_toke
 #EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="" ,La 8 Salamanca
 https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/2byQggzwugAjWofr0BVwUsqLoRXF7Br_wM4s_pxO6a8/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
 
+#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="" ,La 8 Valladolid
+https://la8valladolidlive.flumotion.cloud/la8valladolidlive/smil:channel1PRG.smil/fmt_token/qrpMNQmp-v4QfxxwxSakWCt0Yjo8eLAe0785TiSFU-0/eyJleHBpcmUiOiIxNzU1NDM2NDcyIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC9kZTU4NTE0MC1lMGIwLTQ2YjEtODE1NC00MmVjMDZkYWM5ZjUiLCIvbGE4dmFsbGFkb2xpZGxpdmUiXSwicmVmX2FsbG93IjpbImNkbmFwaS5jb2RldjgubmV0IiwiY21zLmNvZGV2OC5uZXQiXX0/playlist.m3u8
+
 #EXTINF:-1 tvg-id="La 8 Burgos" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="" ,La 8 Burgos
 https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/acBnyQqlEn_pBc6epUzKTuPaMnIySEcdMA5JqpxuEsY/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
 
@@ -92,15 +95,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
-https://www.streaming101tv.es:19360/andalucia/andalucia.m3u8
+https://liveingesta318.cdnmedia.tv/101weblive/malaga/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png", TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="Tvg" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg
+#EXTINF:-1 tvg-id="TVGAL.TV" tvg-name="Tvg" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,TVG
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="TVG2.TV" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,Tvg 2
+#EXTINF:-1 tvg-id="TVG2.TV" tvg-name="Tvg 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="" ,TVG 2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid Internacional" tvg-name="Telemadrid Internacional" tvg-logo="https://raw.githubusercontent.com/televiziva/IberikaTv/refs/heads/master/Logos/telemadrid.jpg" group-title="Nacional" tvg-shift="+1",Telemadrid
