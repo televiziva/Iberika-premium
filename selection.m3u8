@@ -1,5 +1,7 @@
 #EXTM3U tvg-url="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml", "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 
+
+
 #EXTINF:-1 tvg-id="ES900002ZD" tvg-name="ES900002ZD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png" group-title="Cine" , Todo Pasión
 https://jmp2.uk/stvp-ES900002ZD
 
@@ -60,6 +62,8 @@ https://jmp2.uk/stvp-ES26000025M
 #EXTINF:-1 tvg-id="" tvg-name="Canal 4 Mallorca" tvg-logo="https://pbs.twimg.com/profile_images/1802736483951910912/vjhXPo8k_400x400.jpg" group-title="Nacional" tvg-shift="+1",Canal 4 Mallorca
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
+EXTINF:-1 tvg-logo="",TeleRitmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-name="mytime-movie-network-spanish" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="Peliculas accion y suspense" , MyTime Movie Network
 https://amg00500-amg00500c3-rakuten-uk-3910.playouts.now.amagi.tv/playlist/amg00500-studiocitypicturesfast-mytimemovienetworkspain-rakutenuk/playlist.m3u8?ads_amagi_channel=715&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2589&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=b4d9fc8d-6992-4816-8112-3836c451dd1c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -73,17 +77,6 @@ https://jmp2.uk/stvp-ES2800001G7
 #EXTINF:-1 tvg-id="64a3f200f238ce0008d47247" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" group-title="" tvg-chno="306", Pluto TV True Crime
 https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b243ed9-e54d-11ee-8a65-aed6929850fa
 
-#EXTINF:-1 tvg-id="La 8 Ávila" tvg-logo="https://i.imgur.com/oVtVKw0.png" group-title="" ,La 8 Ávila
-https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/t2cJACnNomwAyXndoCmCgIcIVAebvtSOmMv-nUHxEa0/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThhdmlsYWxpdmUiLCIvb25kZW1hbmQvMWU4OTQ5MzAtZTJmNi00MTRlLWI4MzgtOTEwNzI2ZTkzMWIyIl19/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="" ,La 8 Salamanca
-https://la8salamancalive.flumotion.cloud/la8salamancalive/smil:channel1PRG.smil/fmt_token/2byQggzwugAjWofr0BVwUsqLoRXF7Br_wM4s_pxO6a8/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThzYWxhbWFuY2FsaXZlIiwiL29uZGVtYW5kLzBjNWIwYWE0LWZhZDAtNGZlZi1iNzAyLWIxMGE0N2ZlNjEzNSJdfQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La8CYL.TV" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="" ,La 8 Valladolid
-https://la8valladolidlive.flumotion.cloud/la8valladolidlive/smil:channel1PRG.smil/fmt_token/qrpMNQmp-v4QfxxwxSakWCt0Yjo8eLAe0785TiSFU-0/eyJleHBpcmUiOiIxNzU1NDM2NDcyIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC9kZTU4NTE0MC1lMGIwLTQ2YjEtODE1NC00MmVjMDZkYWM5ZjUiLCIvbGE4dmFsbGFkb2xpZGxpdmUiXSwicmVmX2FsbG93IjpbImNkbmFwaS5jb2RldjgubmV0IiwiY21zLmNvZGV2OC5uZXQiXX0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="La 8 Burgos" tvg-logo="https://i.imgur.com/Uu7XQ15.png" group-title="" ,La 8 Burgos
-https://la8burgoslive.flumotion.cloud/la8burgoslive/smil:channel1PRG.smil/fmt_token/acBnyQqlEn_pBc6epUzKTuPaMnIySEcdMA5JqpxuEsY/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYThidXJnb3NsaXZlIiwiL29uZGVtYW5kLzhjMzk1Y2FjLTBkNzQtNDgxOC05ODI1LTg4NWI1Y2IxMDcxNCJdfQ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="673249433a61d400087a51ed" tvg-name="Construcciones Asombrosas" tvg-logo="https://images.pluto.tv/channels/673249433a61d400087a51ed/colorLogoPNG_1732662528285.png" group-title="" tvg-chno="4445", Construcciones Asombrosas
 https://stitcher.pluto.tv/stitch/hls/channel/673249433a61d400087a51ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d64f5fac-bd22-11ef-a9ef-ee6967560f17
@@ -94,8 +87,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/673249afc7626f0008c7205d/master.m3u
 #EXTINF:-1 tvg-id="La7deCyLTV.es" tvg-logo="https://www.cyltv.es/img/cylTV.esTwitter.png" group-title="" ,Castilla y Leon Tv
 https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/brX2cV1a8QCLEqcPmGRe8fS5w9NpMGCp1qAdd3JaP1g/eyJleHBpcmUiOiI0MDcwOTA4ODAwIiwidXJsX2FsbG93IjpbIi9sYTdsaXZlIiwiL29uZGVtYW5kLzk4MWM0OGU2LWM2M2UtNGQwMC1iMWUxLTc5NzgyMGE2MWM1OSJdfQ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Malaga
-https://liveingesta318.cdnmedia.tv/101weblive/malaga/chunklist.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/GzI3RC4.png", 101 tv Cadiz
+https://streaming101tv.es:19360/cadiz/cadiz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILfXDRs.png", TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
@@ -127,6 +120,14 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 #EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="Nacional" tvg-shift="+1",La 8 Mediterráneo
 https://streaming004.gestec-video.com/hls/8TV.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , RTP asturias
+https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/token/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTgxNTkwMDEsImNvdW50cnlfYWxsb3ciOltdLCJyZWdpb25fYWxsb3ciOltdLCJob3N0X2FsbG93IjpbXSwidXJsX2FsbG93IjpbIi9jb250aW51b3VzLyJdfQ.v1Urayuk9qmRC2wIqYoBWFmt7182ktmbNWiwt8aA1xs/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , 7 Rioja
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hZfEh7No4Xi3GZj9lsvLHhyZkEz-hygTiPeXNUGiOzt9su1kcx-iU04UfMVHCb6ZnlAPHgAyvFRTd9kLuWn1GTvS42WuVYDwQCZp2uErd2yNQmWXu02tdo250vDuQXN8)/cloud/3/x8dhao1/s/live-480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Mexico Travel Channel
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI1IDc6NDE6MzggUE0maGFzaF92YWx1ZT0xbkJSNnZheDRYOVdVRGQ0cGI4UkZRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-id="66d71c656b63480008cf0427" tvg-name="Cherif" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png" group-title="" tvg-chno="19", Cherif
 https://stitcher.pluto.tv/stitch/hls/channel/66d71c656b63480008cf0427/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=323481c1-a7eb-11ef-b0e9-16af0e9e86b2
@@ -163,8 +164,6 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 #EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="drama-rakuten-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Películas" , Drama
 https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1d798bdb-43af-4ee1-999e-cd7f46e18f38&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="vivir-con-gatos" tvg-name="vivir-con-gatos" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg" , Vivir con gatos
-https://daiconnect.com/live/hls/tvup/rk-vivircongatos/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5596&ads_rtv_content_language=spa&ads_streaming_id=a7e5552e-d631-4f6d-8252-4e8a637c4438&ads_tcs_channel_id=922&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="(no tvg-id)x" tvg-name="Moviesphere mx" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" group-title="Peliculas" ,MOVIESPHERE MX
 https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1698413629&id=12047&ip=201.150.35.76&override_expiration=1500&sign=n2LLwgVD9SERcPAlC4QucrcV2m8H%2BPVjP5k0MoxBXS0%3D&ads.ip=201.150.35.76
@@ -186,8 +185,20 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/67586a552fb8a100088f7703/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c25cbb29-fb36-11ef-92be-ea3fb4e48af6
 
 
-#EXTINF:-1 tvg-id="664c76d68ea5560008c6c7a4" tvg-name="Alerta Cobra" tvg-logo="https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png" group-title="" tvg-chno="20", Alerta Cobra
-https://stitcher.pluto.tv/stitch/hls/channel/664c76d68ea5560008c6c7a4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a10b397a-6491-11ef-85d2-d696d6ed61b5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , America Teve
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Imagen tv Plus
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Canal 7 Salta
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" , Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="" tvg-chno="28", Pluto TV Series criminales
 https://stitcher.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2d6a9684-0d15-11ef-bf8d-1299406a6838
