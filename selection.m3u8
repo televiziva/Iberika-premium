@@ -294,3 +294,18 @@ https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="thriller-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6e6e627e-d9ef-46da-8f3a-eea4949f632e.jpeg" group-title="Películas" , Thrillers
 https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=29de5311-7e11-40a2-87a6-ce0ecac412ed&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
 
+
+#EXTINF:-1 tvg-id="ES2800002MM" tvg-name="ES2800002MM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="Documentales" , Mayday: Catástrofe Aérea
+https://jmp2.uk/stvp-ES2800002MM
+#EXTINF:-1 tvg-id="ES1400002CJ" tvg-name="ES1400002CJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png" group-title="Documentales" , CURIOSITY Now
+https://jmp2.uk/stvp-ES1400002CJ
+#EXTINF:-1 tvg-id="ES12000024R" tvg-name="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250819T033234SQUARE.png" group-title="Documentales" , Historia y Vida
+https://jmp2.uk/stvp-ES12000024R
+#EXTINF:-1 tvg-id="ESBD1400003QN" tvg-name="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20241106T142225SQUARE.png" group-title="Documentales" , Royalworld - Nobleza y Dinastias
+https://jmp2.uk/stvp-ESBD1400003QN
+#EXTINF:-1 tvg-id="ES3200001F1" tvg-name="ES3200001F1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20250923T011545SQUARE.png" group-title="Documentales" , BBC Earth
+https://jmp2.uk/stvp-ES3200001F1
+
+#EXTINF:-1 tvg-id="BomCine.es@SD",Bom Cine (1080p)
+http://176.65.146.237:8401/play/a09d/index.m3u8
+
