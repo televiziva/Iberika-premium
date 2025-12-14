@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz"
+#EXTM3U url-tvg="https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz" "https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz"
 
 
 #EXTINF:-1 tvg-id="cine-friki" tvg-name="cine-friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Películas" , Cine Friki
