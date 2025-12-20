@@ -296,3 +296,18 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 
 #EXTINF:-1 tvg-id="BomCine.es@SD",Bom Cine (1080p)
 http://176.65.146.237:8401/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-id="ES4200001MR" tvg-name="ES4200001MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20251209T125859SQUARE.png" group-title="Cine" , Moviesphere
+https://jmp2.uk/stvp-ES4200001MR
+
+#EXTINF:-1 tvg-id="ES2800001G7" tvg-name="ES2800001G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png" group-title="Cine" , Planeta de Cine
+https://jmp2.uk/stvp-ES2800001G7
+
+#EXTINF:-1 tvg-id="ES2800002MM" tvg-name="ES2800002MM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png" group-title="Documentales" , Mayday: Catástrofe Aérea
+https://jmp2.uk/stvp-ES2800002MM
+#EXTINF:-1 tvg-id="ES1400002CJ" tvg-name="ES1400002CJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png" group-title="Documentales" , CURIOSITY Now
+https://jmp2.uk/stvp-ES1400002CJ
+#EXTINF:-1 tvg-id="ESBC2700011AZ" tvg-name="ESBC2700011AZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png" group-title="Cine" , Cines Verdi TV
+https://jmp2.uk/stvp-ESBC2700011AZ
+#EXTINF:-1 tvg-id="ES900002ZD" tvg-name="ES900002ZD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png" group-title="" , Todo Pasión
+https://jmp2.uk/stvp-ES900002ZD
