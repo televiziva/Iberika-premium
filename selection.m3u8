@@ -297,6 +297,9 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-id="BomCine.es@SD",Bom Cine (1080p)
 http://176.65.146.237:8401/play/a09d/index.m3u8
 
+#EXTINF:-1 tvg-id="BomCine.es@SD",pupu (1080p)
+https://n9.cl/qb4em
+
 #EXTINF:-1 tvg-id="ES4200001MR" tvg-name="ES4200001MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20251209T125859SQUARE.png" group-title="Cine" , Moviesphere
 https://jmp2.uk/stvp-ES4200001MR
 
